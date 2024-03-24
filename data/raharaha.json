@@ -1,0 +1,67 @@
+[
+    {
+        "id": "1",
+        "andraikitra": "Preside alarobia",
+        "abbreviation": "pres_alar"
+    },
+    {
+        "id": "2",
+        "andraikitra": "FF alarobia",
+        "abbreviation": "ff_alar"
+    },
+    {
+        "id": "3",
+        "andraikitra": "Preside zoma",
+        "abbreviation": "pres_zoma"
+    },
+    {
+        "id": "4",
+        "andraikitra": "Fampaherezana zoma",
+        "abbreviation": "famp_zoma"
+    },
+    {
+        "id": "5",
+        "andraikitra": "Preside sabata",
+        "abbreviation": "pres_sabata"
+    },
+    {
+        "id": "6",
+        "andraikitra": "Velomin'ny teniny sabata",
+        "abbreviation": "vt_sabata"
+    },
+    {
+        "id": "7",
+        "andraikitra": "FF Sabata",
+        "abbreviation": "ff_sabata"
+    },
+    {
+        "id": "8",
+        "andraikitra": "Tatitra sekoly sabata",
+        "abbreviation": "tatitra_sesa_sabata"
+    },
+    {
+        "id": "9",
+        "andraikitra": "5 minitra sabata",
+        "abbreviation": "dimymn_sabata"
+    },
+    {
+        "id": "10",
+        "andraikitra": "Tatitra maneran_tany",
+        "abbreviation": "tatitra_eran_sabata"
+    },
+    {
+        "id": "11",
+        "andraikitra": "Mpampianatra lesona Lehibe",
+        "abbreviation": "lesonaLB_sabata"
+    },
+    {
+        "id": "12",
+        "andraikitra": "Preside sabata hariva",
+        "abbreviation": "pres_hariv_sabata"
+    },
+    {
+        "id": "13",
+        "andraikitra": "Fampaherezana sabata hariva",
+        "abbreviation": "famp_sabata"
+    }
+]
